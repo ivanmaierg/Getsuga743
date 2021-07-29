@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=getsuga743&label=Profile%20views&color=0e75b6&style=flat" alt="getsuga743" /> </p>
 
-- 🌱 I’m currently learning **React.js, Next.js, Styled Components, and JAMSTACK**
+- 🌱 I’m currently learning **React.js, Next.js, Styled Components, and JAMSTACK.**
 
 - 📫 How to reach me **ivanmaierg99@gmail.com**
 
