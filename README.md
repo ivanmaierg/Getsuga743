@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Next.js, Styled Components, and JAMSTACK.**
 
-- 📫 How to reach me **ivanmaierg99@gmail.com**
+- 📫 How to reach me: **ivanmaierg99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
